@@ -4,11 +4,11 @@
 
 ## 1. Purpose
 
-A primary goal of Hexa project is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of [Hexa project](https://github.com/hexalang) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in Hexa project to help us create safe and positive experiences for everyone.
+We invite all those who participate in [Hexa project](https://github.com/hexalang) to help us create safe and positive experiences for everyone.
 
 ## 2. Open Source Citizenship
 
@@ -34,16 +34,17 @@ The following behaviors are expected and requested of all community members:
 The following behaviors are considered harassment and are unacceptable within our community:
 
 *   Violence, threats of violence or violent language directed against another person.
-*   Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-*   Posting or displaying sexually explicit or violent material.
+*   Sexist, racist, homophobic, transphobic, ableist or otherwise **clearly (intentionally) offensively discriminatory jokes** and language.
+*   Posting or displaying sexually explicit or violent material (if group is not rated 18+ like our Telegram group).
 *   Posting or threatening to post other people’s personally identifying information ("doxing").
 *   Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
 *   Inappropriate photography or recording.
 *   Inappropriate physical contact. You should have someone’s consent before touching them.
-*   Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+*   Unwelcome sexual attention. This includes, sexualized comments or **clearly (intentionally) offensive jokes**; inappropriate touching, groping, and unwelcomed sexual advances.
 *   Deliberate intimidation, stalking or following (online or in person).
 *   Advocating for, or encouraging, any of the above behavior.
 *   Sustained disruption of community events, including talks and presentations.
+*   [SJW](https://en.wikipedia.org/wiki/Social_justice_warrior) behavior is *not* welcomed and may result in exclusion from community
 
 ## 5. Consequences of Unacceptable Behavior
 
@@ -55,7 +56,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible at [our telegram group](https://t.me/hexalang).
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible by joining [Telegram group](https://t.me/hexalang).
 
 
 
@@ -63,7 +64,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 7. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify maintainer with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify @PeyTy with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 
 
