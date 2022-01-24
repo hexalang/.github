@@ -8,4 +8,4 @@
 
 `Her name is [geksa]`
 
-Default community health files of `Hexa Programming Language` organization
+Community health files of our organization
