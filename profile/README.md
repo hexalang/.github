@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 <p align="center">
-  <img src="./profile/breathtaking.png">
+  <img height="200" src="./profile/breathtaking.png">
 </p>
 <!-- markdownlint-enable MD041 -->
 
