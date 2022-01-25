@@ -57,4 +57,4 @@ You can also make changes to the code or wiki pages [editing via the GitHub web 
 
 See also:
 
-* :performing_arts: [How to leave feedback or bug report](Issues.md)
+- :performing_arts: [How to leave feedback or bug report](Issues.md)
