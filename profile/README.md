@@ -1,8 +1,6 @@
-<!-- markdownlint-disable MD041 -->
 <p align="center">
   <img width="550" src="./profile/breathtaking.png">
 </p>
-<!-- markdownlint-enable MD041 -->
 
 **Hexa** is a high level, strictly typed programming language that compiles to JavaScript and native apps
 
