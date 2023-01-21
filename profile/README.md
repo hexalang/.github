@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="550" src="./profile/breathtaking.png">
+  <img width="550" src="https://raw.githubusercontent.com/hexalang/.github/kawaii/profile/breathtaking.png">
 </p>
 
 **Hexa** is a high level, strictly typed programming language that compiles to JavaScript and native apps
