@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://github.com/hexalang/Hexa">
   <img width="550" src="https://raw.githubusercontent.com/hexalang/.github/kawaii/profile/breathtaking.png">
+  </a>
 </p>
 
 **Hexa** is a high level, strictly typed programming language that compiles to JavaScript and native apps
